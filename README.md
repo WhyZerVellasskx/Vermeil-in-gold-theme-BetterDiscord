@@ -8,7 +8,7 @@
 4. Goto user settings > Themes in the betterdiscord section > check the tick box next to the theme
 5. Done! Have Fun :D
 
-### [Theme](/release/Vermeil in gold.theme.css)
+### [Theme](/Vermeil in gold.theme.css)
 ![Main Guild Window](https://i.imgur.com/Ldwd9Cr.png)
 ![User Settings](https://i.imgur.com/EL8LEpJ.png)
 
