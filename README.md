@@ -1,1 +1,1 @@
-# Vermeil-in-gold-theme-BetterDiscord
+# THIS THEME IS NOT UPDATED AND MAY BE BROKEN OR DEAD!
